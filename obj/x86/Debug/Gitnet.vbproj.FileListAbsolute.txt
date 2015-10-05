@@ -7,3 +7,6 @@ c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x
 c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.exe
 c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.xml
 c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.pdb
+C:\Users\Administrador\Documents\Gitnet\Gitnet\obj\x86\Debug\Gitnet.exe
+C:\Users\Administrador\Documents\Gitnet\Gitnet\obj\x86\Debug\Gitnet.xml
+C:\Users\Administrador\Documents\Gitnet\Gitnet\obj\x86\Debug\Gitnet.pdb
