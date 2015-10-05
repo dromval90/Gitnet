@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\bin\Debug\Gitnet.exe
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\bin\Debug\Gitnet.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\bin\Debug\Gitnet.xml
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.Form1.resources
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.vbproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.exe
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.xml
+c:\users\administrador\documents\visual studio 2010\Projects\Gitnet\Gitnet\obj\x86\Debug\Gitnet.pdb
